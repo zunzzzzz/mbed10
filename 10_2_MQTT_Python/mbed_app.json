@@ -6,11 +6,11 @@
        },
        "wifi-ssid": {
              "help": "WiFi SSID",
-             "value": "\"emlab-01\""
+             "value": "\"P880\""
        },
        "wifi-password": {
              "help": "WiFi Password",
-             "value": "\"eenthu2405\""
+             "value": "\"12345678\""
        }
     },
     "target_overrides": {
