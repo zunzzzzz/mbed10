@@ -248,4 +248,6 @@ BUILD/K66F/GCC_ARM/main.o: main.cpp BUILD/K66F/GCC_ARM/mbed_config.h \
  wifi_mqtt/MQTT/MQTTPacket/MQTTUnsubscribe.h \
  wifi_mqtt/MQTT/MQTTPacket/MQTTFormat.h \
  wifi_mqtt/MQTT/MQTTPacket/StackTrace.h \
- wifi_mqtt/MQTT/MQTTPacket/MQTTPacket.h wifi_mqtt/MQTT/MQTTLogging.h
+ wifi_mqtt/MQTT/MQTTPacket/MQTTPacket.h wifi_mqtt/MQTT/MQTTLogging.h \
+ /home/zunzzz/ee2405/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_K66F/drivers/fsl_port.h \
+ /home/zunzzz/ee2405/mbed-os/targets/TARGET_Freescale/TARGET_MCUXpresso_MCUS/TARGET_K66F/drivers/fsl_gpio.h
